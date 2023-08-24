@@ -1,0 +1,10 @@
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\filter\PostZuulFilter.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\config\RestOAuth2AuthExceptionEntryPoint.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\config\JWTConfig.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\GatewayServer.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\config\ClientDefaultAccessTokenConverter.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\filter\AuthFilter.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\config\SecurityConfig.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\config\RestAccessDeniedHandler.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\config\ZuulConfig.java
+C:\Users\itheima\Desktop\wanxinp2p\wanxinp2p-gateway-server\src\main\java\cn\itcast\wanxinp2p\gateway\config\ResouceServerConfig.java
